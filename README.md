@@ -4,7 +4,7 @@ Hi, <br/>
 
 This is a simple Angular POC created by Abhishek Choubey. <br/>
 
-In this POC I tried to demonstrate angular COMPONENT basic METADATA concepts. <br/>
+In this POC I tried to demonstrate angular COMPONENT basic METADATA concepts and @HostListener decorator. <br/>
 
 Software Used <br/>
 node --version = v14.20.0 <br/>
